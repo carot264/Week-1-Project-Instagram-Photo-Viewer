@@ -43,7 +43,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
-- I encountered many obstacles about solving some errors when I used some libraries and it made my app crash.
+- I encountered many obstacles about solving some errors when I used some libraries and they made my app crash.
 
 
 ## Open-source libraries used
