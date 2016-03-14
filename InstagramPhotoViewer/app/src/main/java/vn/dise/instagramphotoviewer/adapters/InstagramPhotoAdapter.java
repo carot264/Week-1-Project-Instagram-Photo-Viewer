@@ -36,8 +36,8 @@ public class InstagramPhotoAdapter extends ArrayAdapter<InstagramPhoto> {
 
 
         if(photo.timeStamp != "") {
-            Date createdAtDate = new java.util.Date(Integer.parseInt(photo.timeStamp) * 1000);
-            Date now = new java.util.Date();
+            Date createdAtDate = new Date(Long.parseLong(photo.timeStamp) * 1000);
+            Date now = new Date();
             tvTimeStamp.setText(DateUtils.getRelativeTimeSpanString(createdAtDate.getTime(), now.getTime(), DateUtils.SECOND_IN_MILLIS));
         }
 
