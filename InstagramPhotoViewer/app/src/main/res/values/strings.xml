@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Popular Photos</string>
+    <string name="iPhoto"></string>
+    <string name="tvCaption">caption</string>
+    <string name="description">description</string>
+</resources>
