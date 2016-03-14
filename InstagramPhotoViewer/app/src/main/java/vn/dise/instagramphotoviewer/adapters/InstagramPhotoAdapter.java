@@ -28,7 +28,7 @@ public class InstagramPhotoAdapter extends ArrayAdapter<InstagramPhoto> {
         if (convertView == null)
             convertView = LayoutInflater.from(getContext()).inflate(R.layout.item_photo, parent, false);
 
-        TextView  tvCaption = (TextView) convertView.findViewById(R.id.tvCaption);
+        ExpandableTextView tvCaption = (ExpandableTextView) convertView.findViewById(R.id.tvCaption);
         TextView tvUserName = (TextView) convertView.findViewById(  R.id.tvUser);
         TextView tvTimeStamp = (TextView) convertView.findViewById(  R.id.tvTimestamp);
         ImageView iProfilePhoto = (ImageView) convertView.findViewById(R.id.iProfile);
