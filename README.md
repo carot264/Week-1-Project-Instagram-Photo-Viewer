@@ -11,7 +11,7 @@ The following **required** functionality is completed:
   * [x] User can **scroll through current popular photos** from Instagram
   * [ ] For each photo displayed, user can see the following details:
   * [x] Graphic, Caption, Username
-  * [ ] Relative timestamp, likes count, user's profile image: just user's profile image
+  * [ ] Relative timestamp, likes count, user's profile image:  user's profile , timestamp
 
 The following **optional** features are implemented:
 
@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/AXr5KVD.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
