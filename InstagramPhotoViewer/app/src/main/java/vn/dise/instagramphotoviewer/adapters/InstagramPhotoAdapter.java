@@ -13,6 +13,7 @@ import java.util.List;
 import vn.dise.instagramphotoviewer.utils.CircleTransform;
 import vn.dise.instagramphotoviewer.R;
 import vn.dise.instagramphotoviewer.models.InstagramPhoto;
+import vn.dise.instagramphotoviewer.utils.ExpandableTextView;
 
 
 public class InstagramPhotoAdapter extends ArrayAdapter<InstagramPhoto> {
